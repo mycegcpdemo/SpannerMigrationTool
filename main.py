@@ -1,4 +1,3 @@
-from helper_classes.create_spanner_table import CreateSpannerTable
 from helper_classes.generate_fake_data import OutputFile
 from helper_classes.spanner_operations import SpannerOperations
 
